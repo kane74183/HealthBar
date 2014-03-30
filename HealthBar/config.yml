@@ -6,7 +6,7 @@
 #           ---- + ---------------------- + ----
 #                                                     .
 player-bars:
-  enable: true
+  enable: false
   after-name:
     enable: true
     display-style: 1
@@ -16,7 +16,7 @@ player-bars:
     use-custom-file: false
   below-name:
     enable: true
-    text: '% &cHealth'
+    text: '&c<3'
     use-proportion: true
     proportional-to: 100
   world-disabling: false
